@@ -1,0 +1,31 @@
+#    _         _        _   _                    
+# \_|_)       | |      | | | |                   
+#   |     __, | |   _  | | | |         _  _  _   
+#  _|    /  | |/ \_|/  |/  |/  |   |  / |/ |/ |  
+# (/\___/\_/|_/\_/ |__/|__/|__/ \_/|_/  |  |  |_/
+                                               
+# Labellum - Rose Madder Deep for Ghostty
+
+palette = 0=#303030
+palette = 1=#cc6e7c
+palette = 2=#b2bd8c
+palette = 3=#daa286
+palette = 4=#84b0a7
+palette = 5=#c37f9e
+palette = 6=#98c1a1
+palette = 7=#abb2bf
+palette = 8=#626880
+palette = 9=#e67172
+palette = 10=#8ec772
+palette = 11=#d9ba73
+palette = 12=#7b9ef0
+palette = 13=#f2a4db
+palette = 14=#5abfb5
+palette = 15=#b5bfe2
+background = #36262b
+foreground = #bbbbbb
+cursor-color = #bbbbbb
+cursor-text = #1e1e2e
+selection-background = #626880
+selection-foreground = #c6d0f5
+
